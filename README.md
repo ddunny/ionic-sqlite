@@ -28,3 +28,14 @@ System:
    OS      : macOS Big Sur
    Xcode   : Xcode 12.5.1 Build version 12E507
 ```
+
+## 설치한 플러그인
+```
+cordova-plugin-device 2.0.2 "Device"
+cordova-plugin-ionic-keyboard 2.2.0 "cordova-plugin-ionic-keyboard"
+cordova-plugin-ionic-webview 4.2.1 "cordova-plugin-ionic-webview"
+cordova-plugin-splashscreen 5.0.2 "Splashscreen"
+cordova-plugin-statusbar 2.4.2 "StatusBar"
+cordova-plugin-whitelist 1.3.5 "Whitelist"
+cordova-sqlite-storage 6.0.0 "Cordova SQLite storage plugin - cordova-sqlite-storage plugin version"
+```
